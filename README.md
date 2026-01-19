@@ -14,3 +14,4 @@ Interested in business analytics and data-driven decision making.
 1. Sales Analysis using Excel and SQL
 2. Sales Analysis using Python
 3. Power BI Sales Dashboard
+
